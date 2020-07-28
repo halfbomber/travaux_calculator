@@ -1,0 +1,8 @@
+maison :
+  Longueur : 0
+  Largeur : 0
+  Hauteur : 0
+  terrain :
+    Longueur : 0
+    Largeur : 0
+  pieces : !include Pieces/*.yaml

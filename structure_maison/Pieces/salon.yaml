@@ -1,0 +1,38 @@
+Salon:
+  Longueur : 0
+  Largeur : 0
+  Hauteur : 0
+  couleurs :
+    - blanc
+  superficie :
+  sol :
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+  plafon :
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+  mur1 :
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+  mur2 :
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+  mur3 :
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+  mur4:
+    Longueur : 0
+    Largeur : 0
+    type :
+    couleur :
+...
