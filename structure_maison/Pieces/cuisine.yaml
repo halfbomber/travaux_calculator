@@ -1,0 +1,38 @@
+Cuisine:
+  Longueur : 20
+  Largeur : 20
+  Hauteur : 20
+  couleurs :
+    - 'vert'
+  superficie :
+  sol :
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+  plafon :
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+  mur1 :
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+  mur2 :
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+  mur3 :
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+  mur4:
+    Longueur : 20
+    Largeur : 20
+    type :
+    couleur :
+...
